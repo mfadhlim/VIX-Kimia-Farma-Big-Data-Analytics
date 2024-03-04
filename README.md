@@ -72,7 +72,8 @@ JOIN temp_table as tt
 ON ft.transaction_id = tt.transaction_id
 ORDER BY 1 desc
 ```
-<br>    
+<br>
+</details>    
 
 
 ##  **Data Visualization**
